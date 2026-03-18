@@ -2,7 +2,7 @@
 
 This file contains **dummy text** intended only for placing a few reference links in context.
 
-Sometimes you might want a simple page to point to different sections of a site. For example, if you are testing navigation or link placements, you could include a general mention of a ringtone page like [Ringtones](https://promallu.com/ringtones/) in one paragraph.
+Sometimes you might want a simple page to point to different sections of a site. For example, if you are testing navigation or link placements, you could include a general mention of a ringtone page like [Download Ringtones](https://promallu.com/ringtones/) in one paragraph.
 
 In another paragraph, you may add a generic reference to updates or results pages such as [Kerala Lottery Results](https://promallu.com/kerala-lottery-results/) without providing any specific information.
 
